@@ -27,3 +27,5 @@ You can click the Preview link to take a look at your changes.
 ![Jira Badge](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Swagger Badge](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 
+
+[![tyl1996's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyl1996)](https://github.com/anuraghazra/github-readme-stats)
